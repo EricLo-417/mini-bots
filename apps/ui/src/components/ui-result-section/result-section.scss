@@ -1,0 +1,40 @@
+.ui-result-section {
+  color: red;
+  width: max-content;
+}
+
+.result-footer {
+  display: flex;
+  width: 100%;
+
+  justify-content: space-between;
+}
+
+.result-footer__total {
+  display: flex;
+}
+
+.result-footer__controls {
+  display: flex;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #8a8c8f;
+  color: #fff;
+}
+
+th {
+  text-align: left;
+}
+
+.result-header__label-id {
+  width: 270px;
+}
+
+.result-header__id {
+  width: 50px;
+}
+
+.result-header__tracking-code {
+  width: 270px;
+}

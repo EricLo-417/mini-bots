@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'GT America Standard';
+  src: url('./assets/fonts/GT-America-Standard-Regular.woff2') format('woff2');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'GT America Standard';
+  src: url('./assets/fonts/GT-America-Standard-Light.woff2') format('woff2');
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: 'GT America Standard';
+  src: url('./assets/fonts/GT-America-Standard-Medium.woff2') format('woff2');
+  font-weight: bold;
+}
+
+body {
+  font-family: 'GT America Standard';
+  margin-left: 20%;
+  margin-right: 20%;
+}

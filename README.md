@@ -4,7 +4,14 @@ This is for bio bots interview
 
 ## How To Run
 
-If this is your first time, you will need to start the database (this also assumes your docker supports compose)
+If this is your first time, 
+
+Please run
+
+`npm i`
+
+Then you will need to start the database (this also assumes your docker supports compose)
+
 `npm run start:database`
 
 ### Start the backend
